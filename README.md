@@ -30,3 +30,5 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ctsmax&count_private=true&theme=dark" />
 </p>
+
+<p>WakaTime: <a href="https://wakatime.com/@Rzy">https://wakatime.com/@Rzy</a>
